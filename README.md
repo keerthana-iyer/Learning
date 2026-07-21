@@ -1,5 +1,6 @@
 # Medical Insurance Charges Prediction using Multiple Linear Regression
 
+
 ## Project Overview
 
 This project develops a Multiple Linear Regression model to predict individual medical insurance charges based on demographic and lifestyle factors. The project follows a complete machine learning workflow, including data cleaning, exploratory data analysis, statistical hypothesis testing, feature engineering, model building, model evaluation, and regression diagnostics.
@@ -163,3 +164,11 @@ Through this project I learned:
 ## Conclusion
 
 The Multiple Linear Regression model provides a strong baseline for predicting medical insurance charges, achieving an R² score of approximately **0.81**. Smoking status emerged as the most influential predictor, followed by BMI and Age. While the model satisfies most practical requirements, future work can explore more flexible machine learning algorithms to capture the remaining unexplained variation.
+
+## Personal Note
+
+This project was built as part of my journey from Data Analyst to Data Scientist.
+
+Instead of focusing only on writing code, I spent time understanding the statistical reasoning behind every step—from hypothesis testing and regression assumptions to interpreting coefficients and diagnosing model performance.
+
+The goal of this project was not just to predict insurance charges, but to build intuition for how regression models work in practice.
